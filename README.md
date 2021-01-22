@@ -34,8 +34,16 @@ $ ./conll-2012/v3/scripts/skeleton2conll.sh -D ./ontonotes-release-5.0/data/file
 2. 切换回python3环境
 
 ```
-source deactivate
+$ source deactivate
 ```
+
+3. 运行处理 collect 脚本
+
+```
+$ python collect_conll.py
+```
+
+生成的文件在 v4 目录下
 
 ## 格式说明
 
