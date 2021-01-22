@@ -4,6 +4,9 @@
 # conll-2012 - generated
 /conll-2012
 /v4
+/conllu
+/srl
+/ner
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
